@@ -554,24 +554,24 @@ footer {
 .ion-logo-facebook,
 .ion-logo-twitter,
 .ion-logo-googleplus,
-.ion-logo-istagram {
+.ion-logo-instagram {
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
 }
 
-.ion-logo-facebook: hover {
+.ion-logo-facebook ion-icon:hover {
 	color: #3b5998;
 }
 
-.ion-logo-twitter: hover {
+.ion-logo-twitter ion-icon:hover {
 	color: #55acee;
 }
 
-.ion-logo-googleplus: hover {
+.ion-logo-googleplus ion-icon:hover {
 	color: #dd4b39;
 }
 
-.ion-logo-instagram: hover {
+.ion-logo-instagram ion-icon:hover {
 	color: #e95950;
 }
 
